@@ -6,4 +6,7 @@ How it displays a ransom message
 How it simulates file encryption    
 How it uses threads and timers     
 How the user input can simulate decryption.  
+
+⚠️ ⚠️ ⚠️ You need to give the executable file execute permissions before executing (chmod +x GTA6)
+
 ⚠️ This is not real malware. It does not encrypt any critical system files and is built purely for learning purposes in a virtual environment.
